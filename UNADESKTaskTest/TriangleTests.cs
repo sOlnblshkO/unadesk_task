@@ -13,7 +13,19 @@ public class TriangleTests
     [InlineData(-2, -3, 4)]
     [InlineData(2, -3, -4)]
     [InlineData(-2, -3, -4)]
-    public void Should_Throw_Exception_On_Negative_Values(decimal a, decimal b, decimal c)
+    [InlineData(0, 3, 4)]
+    [InlineData(2, 0, 4)]
+    [InlineData(2, 3, 0)]
+    [InlineData(0, -3, -4)]
+    [InlineData(0, 3, -4)]
+    [InlineData(0, -3, 4)]
+    [InlineData(-2, 0, -4)]
+    [InlineData(2, 0, -4)]
+    [InlineData(-2, 0, 4)]
+    [InlineData(-2, -3, 0)]
+    [InlineData(2, -3, 0)]
+    [InlineData(-2, 3, 0)]
+    public void Should_Throw_Exception_On_Negative_Or_Equal_Values(decimal a, decimal b, decimal c)
     {
         Assert.Throws<ArgumentException>(() => new Triangle(a, b, c));
     }

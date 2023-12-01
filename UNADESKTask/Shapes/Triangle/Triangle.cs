@@ -20,7 +20,7 @@ public class Triangle : ITriangle
         {
             if (value <= 0)
             {
-                throw new ArgumentException("Нельзя поставить отрицательное число");
+                throw new ArgumentException("Нельзя поставить отрицательное или нулевое значение");
             }
 
             _a = value;
@@ -36,7 +36,7 @@ public class Triangle : ITriangle
         {
             if (value <= 0)
             {
-                throw new ArgumentException("Нельзя поставить отрицательное число");
+                throw new ArgumentException("Нельзя поставить отрицательное или нулевое значение");
             }
 
             _b = value;
@@ -52,7 +52,7 @@ public class Triangle : ITriangle
         {
             if (value <= 0)
             {
-                throw new ArgumentException("Нельзя поставить отрицательное число");
+                throw new ArgumentException("Нельзя поставить отрицательное или нулевое значение");
             }
 
             _c = value;
