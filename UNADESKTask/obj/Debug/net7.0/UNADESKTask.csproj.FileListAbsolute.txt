@@ -1,0 +1,12 @@
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\bin\Debug\net7.0\UNADESKTask.deps.json
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\bin\Debug\net7.0\UNADESKTask.dll
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\bin\Debug\net7.0\UNADESKTask.pdb
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.csproj.AssemblyReference.cache
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.AssemblyInfoInputs.cache
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.AssemblyInfo.cs
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.csproj.CoreCompileInputs.cache
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.dll
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\refint\UNADESKTask.dll
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\UNADESKTask.pdb
+C:\Users\KamilMustafin\RiderProjects\UNADESK_Test\UNADESKTask\obj\Debug\net7.0\ref\UNADESKTask.dll
